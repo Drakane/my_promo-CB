@@ -107,7 +107,7 @@ body {
             padding: 10px;
             display: flex;
             flex-direction: column;
-            
+
         } .card:active {
                 background-color: rgba(0, 0, 0, 0);
                 border: 2px solid rgb(155, 0, 0);
